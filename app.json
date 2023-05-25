@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "display-selected-emoji-sticker",
+    "slug": "snack-d6b99ed5-9efc-4a21-9f60-6b6b3f2791a3",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/shutter-icon-design-vector-png_265312.jpg",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/Jingweii.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/shutter-icon-design-vector-png_265312.jpg",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/shutter-icon-design-vector-png_265312.jpg"
+    }
+  }
+}
